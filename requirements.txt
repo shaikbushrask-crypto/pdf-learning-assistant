@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn[standard]
+sqlalchemy
+python-multipart
+PyJWT
+pwdlib[argon2]
+pypdf
+python-dotenv
+openai
